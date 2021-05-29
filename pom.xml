@@ -303,12 +303,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://mynexusserver.com:8081/repository/MyNexus</url>
+            <url>http://192.168.52.175:8081/repository/MyNexus</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://mynexusserver.com:8081/repository/MyNexus2</url>
+            <url>http://192.168.52.175:8081/repository/MyNexus2</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
